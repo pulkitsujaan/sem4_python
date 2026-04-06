@@ -1,0 +1,5 @@
+Java is a class-based, object-oriented programming language.
+It follows the principle of write once, run anywhere.
+Java is commonly used for Android development and enterprise applications.
+The Java Virtual Machine allows platform independence.
+Java has strong memory management and garbage collection.
